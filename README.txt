@@ -1,0 +1,1 @@
+Video player created using HTML, CSS and vanilla JS with Traversy Media tutorial. 
